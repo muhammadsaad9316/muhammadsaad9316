@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 Currently working on web applications & automation tools<br><br>♟️ Passionate about building fun, interactive projects & analysis tools<br><br>🌱 Learning JavaScript, Node.js, React, and AI concepts<br><br>🧠 Interested in Cybersecurity, Artificial Intelligence & System Design<br><br>💬 Feel free to ask me about JavaScript, Web Development, or Security
+🔧 Currently working on web applications & automation tools<br><br>♟️ Passionate about building fun, interactive projects & analysis tools<br><br>🌱 Learning JavaScript, Node.js, React, and AI concepts<br><br>🧠 Interested in  Web Designs<br><br>💬 Feel free to ask me about JavaScript, Web Development
 
 
 ## 🌐 Socials:
